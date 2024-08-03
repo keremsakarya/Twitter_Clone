@@ -1,7 +1,8 @@
 # Twitter_Clone
 
 This project, a clone of Twitter, was built using ReactJS, Firebase, and Tailwind CSS. First, you can log in to the project using either an email-password combination or your Google email. Once you enter the homepage, you can send both text and images. You can also edit and delete your posts. Additionally, there is a feature to like other users' messages. Finally, you can log out by clicking the button at the bottom left corner.
-You can test this project here => 
+
+You can test this project here => https://twitter-clone39.netlify.app/
 
 # Features
 
